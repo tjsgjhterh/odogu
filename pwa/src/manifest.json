@@ -1,0 +1,20 @@
+{
+    "name":"Amoah Michael",
+    "short_name":"Amoah Michael",
+    "start_url":".",
+    "background_color":"#6dcdb1",
+    "theme_color":"#42b5f4",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"../src/images/Logo192.png",
+            "sizes":"192x192",
+            "type":"image/png"
+        },
+        {
+            "src":"../src/images/Logo512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ]
+}
